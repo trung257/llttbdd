@@ -1,0 +1,66 @@
+[
+    {
+        "id": 0,
+        "name": "IPhone 14 Pro Max (1TB) - Chính hãng VN/A",
+        "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/08/44444.png",
+        "price": "40890000",
+        "owner": "Apple",
+        "description": "Màn hình Dynamic Island - Sự biến mất của màn hình tai thỏ thay thế bằng thiết kế viên thuốc, OLED 6,7 inch, hỗ trợ always-on display - Cấu hình iPhone 14 Pro Max mạnh mẽ, hiệu năng cực khủng từ chipset A16 Bionic - Làm chủ công nghệ nhiếp ảnh - Camera sau 48MP, cảm biến TOF sống động - Pin liền lithium-ion kết hợp cùng công nghệ sạc nhanh cải tiến"
+    },
+    {
+        "id": 1,
+        "name": "Samsung Galaxy Z Fold4 - 256GB",
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7_3.jpg",
+        "price": "31990000",
+        "owner": "Samsung",
+        "description": "Camera mắt thần bóng đêm cho trải nghiệm chụp ảnh ấn tượng - Camera chính: 50MP - Khai mở trải nghiệm di động linh hoạt biến hóa - Màn hình ngoài 6.2 inch cùng màn hình chính 7.6 inch độc đáo - Hiệu năng mạnh mẽ đến từ dòng chip cao cấp của Qualcomm - Snapdragon 8 Plus Gen 1 - Viên pin ấn tượng, sạc nhanh tức tốc - Pin 4,400 mAh, sạc nhanh 25 W"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S23 Ultra 12GB/1TB",
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/2/s23-ultra-xanh_4.png",
+        "price": "35990000",
+        "owner": "Samsung",
+        "description": "Thoả sức chụp ảnh, quay video chuyên nghiệp - Camera đến 200MP, chế độ chụp đêm cải tiến, bộ xử lí ảnh thông minh - Chiến game bùng nổ - chip Snapdragon 8 Gen 2 8 nhân tăng tốc độ xử lí, màn hình 120Hz, pin 5.000mAh - Nâng cao hiệu suất làm việc với Siêu bút S Pen tích hợp, dễ dàng đánh dấu sự kiện từ hình ảnh hoặc video - Thiết kế bền bỉ, thân thiện - Màu sắc lấy cảm hứng từ thiên nhiên, chất liệu kính và lớp phim phủ PET tái chế"
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy Z Flip4 256GB",
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_flip_m_i_2022-1_2.jpg",
+        "price": "17900000",
+        "owner": "Samsung",
+        "description": "Ngoại hình thời trang - cầm nắm cực sang với thiết kế gập vỏ sò độc đáo - Công nghệ màn hình hàng đầu đến từ Samsung - 6.7 inch, tấm nền Dynamic AMOLED 2X - Trang bị camera chất lượng - Bộ đôi camera có cùng độ phân giải 12 MP, chống rung, chụp đêm - Hiệu năng mạnh mẽ đến từ dòng chip cao cấp của Qualcomm - Snapdragon 8+ Gen 1"
+    },
+    {
+        "id": 4,
+        "name": "ASUS ROG Phone 7 Ultimate 16GB/512GB",
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/_/1_365.jpg",
+        "price": "29990000",
+        "owner": "Asus",
+        "description": "Chiến game không giới hạn với vi xử lý Snapdragon 8 Gen2 giúp cải thiện hiệu suất và mức tiêu thụ pin - Thiết kế hầm hố chuẩn gaming, trang bị tản nhiệt GameCool 7 giúp hạn chế tối đa tình trạng nóng máy - Màn hình 6.78 inches cực lớn, kết hợp tần số quét 165 Hz mang đến trải nghiệm chiến game tuyệt đỉnh - Viên pin 6.000 mAh cùng công suất sạc nhanh đến 65 W, hỗ trợ sạc đầy pin mà chỉ mất vỏn vẹn 42 phút"
+    },
+    {
+        "id": 5,
+        "name": "Nubia Red Magic 7 Pusar 16GB/256GB",
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/e/red-magic-7-1_7hxhmi7_1.jpg",
+        "price": "18990000",
+        "owner": "Nubia",
+        "description": "Trải nghiệm chơi game cực đã và mượt mà với màn hình AMOLED 6.8 inches, Full HD, 165hz - Nâng cấp hệ thống tản nhiệt, cải tiến mặt lưng giúp làm mát nhanh chóng và ổn định - Chiến game đỉnh cao, hiệu năng cực khủng - Chip Snapdragon 8 Gen 1 mạnh mẽ cùng RAM 16GB - Thiết kế hầm hồ và độc đáo dành riêng cho các game thủ cá tính"
+    },
+    {
+        "id": 6,
+        "name": "Xiaomi 13 8GB/256GB",
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/p/m/pms_1670745783.80967984.png",
+        "price": "18490000",
+        "owner": "Xiaomi",
+        "description": "Ống kính Leica chuyên nghiệp - 2 phong cách nhiếp ảnh vintage cùng hiện đại sống động giúp bạn tha hồ lựa chọn - Đắm chìm với độ tương phản tuyệt vời - Màn hình Pro HDR, cạnh viền mỏng - Snapdragon 8 Gen 2 dẫn đầu - Siêu nhanh và tiết kiệm năng lượng, đa nhiệm mượt mà, chiến game cực đã - Dẫn đầu sạc siêu nhanh - Sạc nhanh 67W, sạc đầy 100% chỉ trong 38 phút."
+    },
+    {
+        "id": 7,
+        "name": "OPPO Find N2 Flip",
+        "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/n/2/n2_flip_-_combo_product_-_black.png",
+        "price": "19990000",
+        "owner": "Oppo",
+        "description": "Thiết kế bền bỉ cho phép gập đến 400.000 lần, giúp dễ dàng gấp gọn và mang theo - Màn hình phụ kích thước 3.26 inch cho khả năng hiển thị trực quan và nhiều chi tiết - Hệ thống ống kính chất lượng cao với cảm biến Sony IMX890 có độ phân giải 50MP - Hiệu năng mạnh mẽ với vi xử lý MediaTek 9000+ kết hợp RAM 8GB và ROM 256GB"
+    }
+]
